@@ -1,3 +1,8 @@
-static void main(String[] args) {
-  println "Hello world!"
+public class Main {
+
+  static void main(String[] args) {
+    println "Hello world!"
+    println "Primera refactorización."
+  }
+
 }
